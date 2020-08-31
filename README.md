@@ -12,14 +12,14 @@ python3 filter.py
 ### You are now setup for the whole month !
 3. Contests :
   - move into the folder for the respective competition using `cd`.
-  - ### atcoder : 
+  - ### AtCoder : 
     - enter your atcoder credenntials in lines `12` and `13` of `scrape.py`
     - Then run the following command to get the scores:
         ```
         ./getScores.sh <contest-id>
         ```
     Example: `./getScores.sh abc171`
-  - ### codeforces : 
+  - ### Codeforces : 
     - Run the following command to get the scores: 
         ```
         ./getScores.sh <contest-id>
@@ -34,4 +34,10 @@ The following students were involved in writing the programs:
  - Atcoder Rank Calculator: [namangup](https://github.com/namangup)
  - Codeforces Rank Calculator: [abhimanyusethia12](https://github.com/abhimanyusethia12)
  - Ranks to Score Convertor: [AthaSSiN](https://github.com/AthaSSiN)
- - README : [Pramodh-G](https://github.com/Pramodh-G)
+ - Input file filter : [Pramodh-G](https://github.com/Pramodh-G)
+ 
+## Managers :
+
+The following students were involved in the management of the challenge:
+
+ - August: [Pramodh-G](https://github.com/Pramodh-G) and [rohanblueboybaijal](https://github.com/rohanblueboybaijal)
