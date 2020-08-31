@@ -11,7 +11,7 @@ def gen_json(contest):
 
     # Supply an AtCoder account details
     user = 'username'
-    password = 'password' 
+    password = 'password'
 
     r = s.post(loginurl, data={'username':user, 'password':password, 'csrf_token':csrf})
     r = s.get(ranklist)
