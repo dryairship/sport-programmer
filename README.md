@@ -41,3 +41,4 @@ The following students were involved in writing the programs:
 The following students were involved in the management of the challenge:
 
  - August: [Pramodh-G](https://github.com/Pramodh-G) and [rohanblueboybaijal](https://github.com/rohanblueboybaijal)
+ - September: [rockstar2514](https://github.com/rockstar2514) and [SomTambe](https://github.com/SomTambe)
