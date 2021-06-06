@@ -44,3 +44,4 @@ The following students were involved in the management of the challenge:
  - September: [rockstar2514](https://github.com/rockstar2514) and [SomTambe](https://github.com/SomTambe)
  - October: [Zark84010](https://github.com/Zark84010) and [SarthakRout](https://github.com/SarthakRout)
  - November: [shubh101295](https://github.com/shubh101295) and [yatharth0610](https://github.com/yatharth0610)
+ - December: [namangup](https://github.com/namangup) and [abhimanyusethia12](https://github.com/abhimanyusethia12)
